@@ -1,0 +1,38 @@
+
+#container {
+    text-align: center;
+     background: linear-gradient(#fcfbfb, #f38100);
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+.navbar {
+    list-style: none;
+    padding: 15px 30px;
+    display: flex;
+    justify-content: space-between;
+}
+.nav-links {
+list-style: none;
+style: none;
+display: flex;
+gap: 15px;
+}
+.nav-links a {
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}
+.nav-links a:hover {
+    color: #fefbf8;
+}
+
+#logoImage {
+    width: 160px;
+}
+.page-description{
+    padding-top: 2rem;
+    padding-left: 32px;
+    padding-right: 32px;
+}
