@@ -14,10 +14,9 @@ body {
     justify-content: space-between;
 }
 .nav-links {
-list-style: none;
-style: none;
-display: flex;
-gap: 15px;
+    list-style: none;
+    display: flex;
+    gap: 15px;
 }
 .nav-links a {
     text-decoration: none;
